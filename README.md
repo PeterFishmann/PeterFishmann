@@ -1,1 +1,1 @@
-![image](https://github.com/peterfishmann/peterfishmann/qr.png)
+![image](https://github.com/peterfishmann/peterfishmann/Profile-Preview/qr.png)
