@@ -1,2 +1,1 @@
-![image]()
-![image]((https://github.com/PeterFishmann/Profile-Preview/blob/main/qr.png)
+![image](https://github.com/PeterFishmann/Profile-Preview/blob/main/qr.png)
